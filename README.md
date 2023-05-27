@@ -25,4 +25,12 @@
 
 ## Django + Django REST Framework
 
-  Building API's with Django is easy!
+    Building API's with Django is easy!
+    
+## Other Python Frameworks
+- Flask
+- Cherry Pie
+- Web2py
+- Pyramind
+  
+  
