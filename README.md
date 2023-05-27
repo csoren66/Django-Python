@@ -32,5 +32,10 @@
 - Cherry Pie
 - Web2py
 - Pyramind
-  
-  
+## Django Architecture
+**MVP Design Pattern**
+- Model - Data Access Layer
+- Template - Presentation Layer
+- View - Bussiness Layer
+![django](https://github.com/csoren66/Django-Python/assets/67580321/dd8b596b-ea83-4988-8ff4-e6bd9b1be232)
+
