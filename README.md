@@ -10,14 +10,14 @@
 - Designed to speed up development
 
 ## Backend vs Frontend Framework
-**Backend (Server Side)**                           
-- PHP                                           
+**Backend (Server Side)**                                                                    
 - Django                                        
 - Ruby on Rails                                 
-- node.js
 - express.js
 
 **Frontend (Client Side)**
 - React.js
 - Angular.js
 - Vue.js
+
+## What we build with Django?
