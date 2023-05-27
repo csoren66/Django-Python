@@ -21,3 +21,4 @@
 - Vue.js
 
 ## What we build with Django?
+![image](https://github.com/csoren66/Django-Python/assets/67580321/5773b673-41f5-4711-8bc2-65b06c68d73c)
